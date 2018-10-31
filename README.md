@@ -14,8 +14,8 @@ Stonghenge:
 • Have fun!
 
 ## Screenshots
-![image1](https://github.com/ZhuoyueLyu/Android_SlidingTiles/blob/master/screenshots/h.jpg)
-![image2](https://github.com/ZhuoyueLyu/Android_SlidingTiles/blob/master/screenshots/s.jpg)
+![image1](https://github.com/ZhuoyueLyu/Python_Stonehenge_Game/blob/master/screenshots/s.png)
+![image2](https://github.com/ZhuoyueLyu/Python_Stonehenge_Game/blob/master/screenshots/h.png)
 
 
 
