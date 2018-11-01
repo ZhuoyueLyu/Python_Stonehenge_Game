@@ -1,7 +1,7 @@
 # Stonehenge/SubtractSquare Game
-• Built using object-oriented programming techniques from the Python course
-• Iterative/recursive AI strategies
-• Got a final mark of 93% on completion
+* Built using object-oriented programming techniques from the Python course
+* Iterative/recursive AI strategies
+* Got a final mark of 93% on completion
 
 ## Rule
 SubstractSquare: start from a number you want to subtract from, player 1 and player 2 (can be another person or the computer) take turns to play, who substract the number to 0 first win.
